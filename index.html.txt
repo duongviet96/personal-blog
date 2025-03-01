@@ -19,21 +19,20 @@
         <p>Chia sẻ kiến thức & kinh nghiệm</p>
     </header>
     <nav>
-        <a href="#">Trang chủ</a>
-        <a href="#">Bài viết</a>
-        <a href="#">Liên hệ</a>
+        <a href="index.html">Trang chủ</a>
+        <a href="post1.html">Bài viết 1</a>
+        <a href="post2.html">Bài viết 2</a>
+        <a href="contact.html">Liên hệ</a>
     </nav>
     <div class="container">
         <h2>Bài viết mới nhất</h2>
         <div class="post">
-            <h3>Tiêu đề bài viết 1</h3>
-            <p>Mô tả ngắn về bài viết...</p>
-            <a href="#">Đọc thêm</a>
+            <h3><a href="post1.html">Tiêu đề bài viết 1</a></h3>
+            <p>Mô tả ngắn về bài viết 1...</p>
         </div>
         <div class="post">
-            <h3>Tiêu đề bài viết 2</h3>
-            <p>Mô tả ngắn về bài viết...</p>
-            <a href="#">Đọc thêm</a>
+            <h3><a href="post2.html">Tiêu đề bài viết 2</a></h3>
+            <p>Mô tả ngắn về bài viết 2...</p>
         </div>
     </div>
 </body>
